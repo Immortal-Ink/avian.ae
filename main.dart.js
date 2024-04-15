@@ -8045,7 +8045,7 @@ case 7:case 4:++o
 r=3
 break
 case 5:r=9
-return b.b="command not recognized",1
+return b.b="you have entered an unrecognized command,  use `help` for a list of available commands.",1
 case 9:case 1:return 0
 case 2:return b.c=p,3}}}},
 abq:function abq(){},
@@ -39538,7 +39538,7 @@ adx(a){return function(){var s=a
 var r=0,q=1,p
 return function $async$ot(b,c,d){if(c===1){p=d
 r=q}while(true)switch(r){case 0:r=2
-return b.b="cls, he;lecho, help, whoami",1
+return b.b="cls, echo, help, whoami",1
 case 2:return 0
 case 1:return b.c=p,3}}}}}
 A.Id.prototype={
@@ -39547,7 +39547,7 @@ ady(a){return function(){var s=a
 var r=0,q=1,p
 return function $async$ot(b,c,d){if(c===1){p=d
 r=q}while(true)switch(r){case 0:r=2
-return b.b="You are currently logged in as (USER NOT SPECIFIED)",1
+return b.b="you are currently logged in as (USER NOT SPECIFIED)",1
 case 2:return 0
 case 1:return b.c=p,3}}}}}
 A.lF.prototype={
