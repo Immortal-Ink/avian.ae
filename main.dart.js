@@ -39600,7 +39600,7 @@ while(true)switch(s){case 0:p=q.a
 s=2
 return A.V(p.nM("Welcome to the Aelorian Virtual Information Access Network. Operated by the Archive of the Ministry of Heritage.",960),$async$$1)
 case 2:s=3
-return A.V(p.nL("Version 2.16.38"),$async$$1)
+return A.V(p.nL("Version 0.1.38"),$async$$1)
 case 3:s=4
 return A.V(p.nL(""),$async$$1)
 case 4:s=5
